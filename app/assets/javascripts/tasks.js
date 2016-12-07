@@ -32,10 +32,11 @@ $(function() {
         }
       }).success(function(data) {
         var liHtml = taskHtml(data);
-        var $li = $("#listitem-" + data.id);
+        var $li = $("#listItem-" + data.id);
         $li.replaceWith(liHtml);
         $('.toggle').change(toggleTask);
-      } );
+
+      });
     }
 
     $.get("/tasks").success( function( data ) {
