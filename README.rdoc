@@ -2,7 +2,7 @@
 
 Written mainly in JavaScript and also utilizes Ruby and jQuery.
 
-Todo is a todo mvc that lets users keep track of their todos. Check it out [here](https://todoster-ryomablue.herokuapp.com/). Sign up and keep track of your todo list!
+Todo is a todo mvc that lets users keep track of their todos. Check it out [here](https://todo-ryomablue.herokuapp.com/). Sign up and keep track of your todo list!
 
 ==Features:
 
